@@ -1,0 +1,1 @@
+{"ast":null,"code":"import MeetupList from \"../components/meetups/MeetupList\";","map":{"version":3,"sources":["D:/Users/PC/Documents/REACT/projects/project_8/pages/index.js"],"names":["MeetupList"],"mappings":"AAAA,OAAOA,UAAP,MAAuB,kCAAvB","sourcesContent":["import MeetupList from \"../components/meetups/MeetupList\";\r\n"]},"metadata":{},"sourceType":"module"}
